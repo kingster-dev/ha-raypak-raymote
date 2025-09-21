@@ -5,7 +5,7 @@
   "documentation": "https://github.com/kingster-dev/ha-raypak-raymote",
   "issue_tracker": "https://github.com/kingster-dev/ha-raypak-raymote/issues",
   "codeowners": ["kingster-dev"],
-  "version": "1.1.0",
+  "version": "v.1.0-alpha.1.1",
   "iot_class": "cloud_polling",
   "dependencies": [],
   "requirements": []
