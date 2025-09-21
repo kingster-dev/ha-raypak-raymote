@@ -1,12 +1,13 @@
 {
-  "domain": "blynk_api",
-  "name": "Blynk API",
+  "domain": "raypak-raymote",
+  "name": "Raypak Raymote",
   "config_flow": true,
-  "documentation": "https://github.com/your-github-username/ha-blynk-api",
-  "issue_tracker": "https://github.com/your-github-username/ha-blynk-api/issues",
-  "codeowners": [],
-  "version": "1.0.0",
+  "documentation": "https://github.com/kingster-dev/ha-raypak-raymote",
+  "issue_tracker": "https://github.com/kingster-dev/ha-raypak-raymote/issues",
+  "codeowners": ["kingster-dev"],
+  "version": "1.1.0",
   "iot_class": "cloud_polling",
   "dependencies": [],
   "requirements": []
 }
+
